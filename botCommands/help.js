@@ -35,13 +35,7 @@ const code = {
       [Put your Code here!]
   \\\`\\\`\\\`
   
-  Add the language directly after the three backticks to enable syntax highlighting:
-
-  \\\`\\\`\\\`js
-      [Put your JavaScript Code here!]
-  \\\`\\\`\\\
-  
-  For \`inline code\` use one backtick (no syntax highlighting):
+  For \`inline code\` use one backtick:
   
   \\\`Code here!\\\`
   
